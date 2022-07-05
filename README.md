@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm a junior web developper based in Le Mans, in France and soon a webmaster  too ! 
 <h2 align=center>Languages, Technologies and Environment :</h2>
 
 <div align=center>
